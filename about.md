@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /About/
+permalink: /about/
 ---
 
 I am an incoming Junior at Northeastern University studying [Computer Engineering](https://en.wikipedia.org/wiki/Computer_engineering). This site will be an attempt to document a range of topics, including my varied interests, projects, thoughts, and hobbies. The audience is meant merely for myself (notes), or perhaps to explain to someone not familiar with me what I do/think. 

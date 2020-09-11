@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am an incoming Junior at Northeastern University studying [Computer Engineering](https://en.wikipedia.org/wiki/Computer_engineering).
+Hello! I am a fifth-year student at Northeastern University studying [Computer Engineering](https://en.wikipedia.org/wiki/Computer_engineering). 
 
 
 ### Contact me

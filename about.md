@@ -10,4 +10,4 @@ Hello! I am a fifth-year student at Northeastern University studying [Computer E
 [Download Resume](/assets/MatthewHeimResume.pdf)
 
 ### Contact me
-[matt@heimfamily.org](mailto:matt@heimfamily.org)
+[heim.m@northeastern.edu](mailto:heim.m@northeastern.edu)
